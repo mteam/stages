@@ -3,6 +3,8 @@
   "repo": "mteam/stages",
   "version": "0.1.0",
   "scripts": [
-    "index.js"
+    "index.js",
+    "stage.js",
+    "container.js"
   ]
 }
